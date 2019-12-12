@@ -1,0 +1,12 @@
+numpy
+matplotlib
+pandas
+seaborn
+requests
+wordcloud
+scipy
+spotipy
+nltk
+sklearn
+PyLyrics
+billboard.py

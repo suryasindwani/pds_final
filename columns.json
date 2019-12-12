@@ -1,0 +1,41 @@
+{
+"columns": {
+    "track_columns": [
+      "popularity",
+      "song_id",
+      "artist_id",
+      "album_id",
+      "song_name",
+      "artist_name",
+      "album_name",
+      "explicit",
+      "track_number"
+    ],
+    "audio_features_columns": [
+      "song_id",
+      "tempo",
+      "type",
+      "key",
+      "loudness",
+      "mode",
+      "liveness",
+      "valence",
+      "danceability",
+      "energy",
+      "duration_ms",
+      "acousticness",
+      "instrumentalness"
+    ],
+    "artist_columns": [
+      "artist_id",
+      "artist_genres",
+      "artist_popularity"
+    ],
+    "album_columns": [
+      "album_id",
+      "album_genres",
+      "album_popularity",
+      "album_release_date"
+    ]
+  }
+}
